@@ -1,5 +1,5 @@
 %% Machine Learning Online Class - Exercise 2: Logistic Regression
-%
+
 %  Instructions
 %  ------------
 % 
@@ -14,7 +14,7 @@
 %
 %  For this exercise, you will not need to change any code in this file,
 %  or any other files other than those mentioned above.
-%
+
 
 %% Initialization
 clear ; close all; clc
